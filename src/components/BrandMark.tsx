@@ -15,7 +15,6 @@ export function BrandMark({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
       </span>
       <span className={`font-display leading-none ${title}`}>
         {BRAND.name}
-        <span className="mt-0.5 block text-[10px] font-semibold tracking-[0.28em] text-red">GIMNASIO</span>
         <span className={`block font-sans font-semibold italic tracking-wide text-cream-2 ${slogan}`}>
           {BRAND.tagline}
         </span>

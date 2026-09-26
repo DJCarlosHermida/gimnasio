@@ -10,7 +10,7 @@ export function Footer() {
         <div>
           <Link to="/" className="inline-block text-cream hover:text-cream-2">
             <p className="font-display text-2xl leading-none">{BRAND.name}</p>
-            <p className="mt-1 text-[10px] font-semibold tracking-[0.28em] text-red">GIMNASIO</p>
+            <p className="mt-1 text-[10px] font-semibold tracking-[0.28em] text-red">{BRAND.tagline}</p>
           </Link>
         </div>
         <div className="space-y-3 text-sm text-cream-2">

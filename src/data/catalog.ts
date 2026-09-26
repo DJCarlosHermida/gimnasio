@@ -1,8 +1,8 @@
 import type { Plan } from "../types"
 
 export const BRAND = {
-  name: "NOMBRE",
-  tagline: "SLOGAN",
+  name: "Gimnasio",
+  tagline: "Entrená a tu ritmo",
   type: "Gimnasio",
   zone: "Barrio de ejemplo",
   hoursLabel: "Lunes a viernes · 7:00 a 22:00 hs · Sábados 8:00 a 14:00 hs",
